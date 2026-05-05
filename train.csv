@@ -1,0 +1,11 @@
+text,priority,latency,compute,privacy
+"Real-time patient monitoring request",High,High,Medium,Sensitive
+"Daily backup job scheduled",Low,Low,High,Public
+"Urgent fraud detection task",High,High,High,Sensitive
+"User login authentication request",Medium,High,Low,Sensitive
+"Batch data analytics processing",Low,Low,High,Public
+"Video streaming optimization request",Medium,High,Medium,Public
+"System anomaly detected in server logs",High,High,Medium,Sensitive
+"Email notification delivery task",Low,Low,Low,Public
+"AI model training workload",Medium,Low,High,Public
+"Confidential financial report processing",High,Medium,High,Sensitive
