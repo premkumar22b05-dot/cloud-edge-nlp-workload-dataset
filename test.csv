@@ -1,0 +1,6 @@
+text,priority,latency,compute,privacy
+"Real-time navigation update",High,High,Medium,Public
+"Scheduled report generation",Low,Low,High,Public
+"Sensitive medical data processing",High,Medium,High,Sensitive
+"Chat message notification",Low,Low,Low,Public
+"Fraud detection alert",High,High,High,Sensitive
