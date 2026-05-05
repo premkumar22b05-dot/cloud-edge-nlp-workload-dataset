@@ -1,0 +1,6 @@
+text,priority,latency,compute,privacy
+"Emergency alert processing",High,High,Low,Sensitive
+"Periodic system health check",Low,Low,Low,Public
+"Secure transaction verification",High,High,Medium,Sensitive
+"Data aggregation request",Medium,Low,High,Public
+"User query for recommendations",Medium,High,Medium,Public
